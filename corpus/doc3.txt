@@ -1,0 +1,4 @@
+A search engine is a software system designed to carry out web searches.
+Search engines maintain an index of documents and use ranking algorithms to return relevant results.
+The inverted index is the core data structure behind most search engines.
+TF-IDF is a common ranking algorithm used to score document relevance for a given query.

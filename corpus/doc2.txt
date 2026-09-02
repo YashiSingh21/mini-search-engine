@@ -1,0 +1,4 @@
+A database is an organized collection of structured information stored electronically.
+Databases are typically managed by a database management system, or DBMS.
+Relational databases use SQL as the standard language for querying and maintaining data.
+MySQL and PostgreSQL are popular open-source relational database systems.

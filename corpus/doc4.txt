@@ -1,0 +1,4 @@
+Data analysis is the process of inspecting, cleaning, and modeling data to discover useful information.
+Data analysts use tools like SQL, Excel, and Python to extract insights from raw data.
+Good data analysis often involves visualization to communicate findings clearly.
+Business decisions increasingly rely on data-driven analysis rather than intuition.

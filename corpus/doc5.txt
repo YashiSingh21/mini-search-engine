@@ -1,0 +1,4 @@
+Multithreading allows a program to execute multiple threads concurrently within a single process.
+Java provides built-in support for multithreading through the Thread class and the Runnable interface.
+Proper synchronization is required to avoid race conditions when multiple threads access shared data.
+Concurrency is an important concept in building scalable backend systems.
